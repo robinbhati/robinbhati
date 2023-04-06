@@ -1,5 +1,7 @@
 ### Hi there 👋 नमस्ते (Namaste)🙏🏻, I'm Robin Bhati! 
 
+
+I am a machine learning and data science enthusiast while also have an interest in writing tech blogs.Skilled in Python. I'm currently pursuing a degree in B.Tech. in Computer Science with a specialization in Artificial Intelligence & Machine Learning from the Vellore Institute of Technology, Bhopal. My primary domain is computer vision while also being fluent in SQL. 
 <!--
 **robinbhati/robinbhati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
